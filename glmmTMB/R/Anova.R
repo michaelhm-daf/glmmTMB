@@ -228,3 +228,6 @@ Anova.III.glmmTMB <- function(mod, vcov., singular.ok=FALSE, test="Chisq",
     }
     result
 }
+test_function <- function(x=1){
+  return(x+1)
+}

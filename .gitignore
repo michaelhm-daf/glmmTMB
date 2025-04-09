@@ -41,3 +41,7 @@ glmmTMB/.gitsum
 *.tgz
 *.zip
 *.dll
+.Rdata
+.httr-oauth
+.DS_Store
+.quarto
